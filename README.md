@@ -4,7 +4,6 @@
 
 <p align="center">
   Estudio Ingeniería Informática en la Universidade da Coruña, en la rama de Software.
-  Me gusta investigar cómo funcionan las cosas, probar ideas y aprender herramientas nuevas.
 </p>
 
 <p align="center">
