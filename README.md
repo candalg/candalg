@@ -3,38 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;pause=1200&amp;color=00B4D8&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=45&amp;lines=Ingenier%C3%ADa+Inform%C3%A1tica+%40+UDC;Desarrollo+de+software;Inter%C3%A9s+por+la+ciberseguridad+defensiva" alt="Estudiante de Ingeniería Informática · Desarrollo de software · Interés en ciberseguridad defensiva"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Objetivo-Pr%C3%A1cticas%20curriculares%20o%20extracurriculares-2563EB?style=for-the-badge" alt="Busco prácticas curriculares o extracurriculares"/>
-</p>
-
-<h2 align="center">👋 Un poco sobre mí</h2>
-
-<p align="center">
   Estudio Ingeniería Informática en la Universidade da Coruña, en la rama de Software.
   Me gusta investigar cómo funcionan las cosas, probar ideas y aprender herramientas nuevas.
 </p>
-
-<table align="center">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🔎 Curiosidad</h3>
-      Disfruto entendiendo los sistemas y buscando nuevas formas de resolver problemas.
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>💡 Creatividad</h3>
-      Me gusta explorar distintas ideas y convertirlas en soluciones útiles.
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>📚 Aprendizaje</h3>
-      Afronto los retos con ganas de aprender lo necesario y hacerlo bien.
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">💻 Tecnologías con las que he trabajado</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
@@ -51,25 +22,4 @@
   <strong>Herramientas:</strong> Git · GitLab · Redmine · Jenkins · Maven · JUnit · MySQL · Flutter · React · Spring Boot
 </p>
 
-<h2 align="center">🎯 Áreas que me interesan</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Desarrollo-de%20software-2563EB?style=flat-square" alt="Desarrollo de software"/>
-  <img src="https://img.shields.io/badge/Inter%C3%A9s-Ciberseguridad%20defensiva-0F766E?style=flat-square" alt="Interés en ciberseguridad defensiva"/>
-  <img src="https://img.shields.io/badge/Enfoque-Blue%20Team-334155?style=flat-square" alt="Interés en Blue Team"/>
-</p>
-
-<h2 align="center">🥋 Fuera del código</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <h3>Judo</h3>
-      Practico judo desde los cuatro años. Soy cinturón negro y entrenador autonómico, y doy clases en centros escolares.
-    </td>
-    <td align="center" valign="top">
-      <h3>Mentoría</h3>
-      Colaboro como mentor voluntario para estudiantes que empiezan Ingeniería Informática en la UDC.
-    </td>
-  </tr>
-</table>
