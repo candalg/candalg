@@ -3,11 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08121F,55:102A43,100:0F9B8E&height=220&section=header&text=JOEL%20CANDAL&fontSize=52&fontColor=F3F7FA&fontAlignY=38&desc=TECNOLOG%C3%8DA%20%C2%B7%20CURIOSIDAD%20%C2%B7%20CREACI%C3%93N&descSize=16&descAlignY=61&animation=fadeIn" width="100%" alt="Joel Candal" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=580&height=48&lines=Ideas+que+se+convierten+en+c%C3%B3digo;Aprender+construyendo;Investigar,+probar+y+mejorar" alt="Ideas que se convierten en código · Aprender construyendo · Investigar, probar y mejorar" />
-</p>
 
-<h2 align="center">🧰 Mi caja de herramientas</h2>
 <p align="center">Tecnologías con las que he trabajado en proyectos académicos y colaborativos</p>
 
 <h3 align="center">Lenguajes</h3>
@@ -49,18 +45,6 @@
   <img src="https://img.shields.io/badge/Gemini%20%2F%20Gemma-8E75B2?style=for-the-badge" alt="Gemini y Gemma" />
 </p>
 
-<h2 align="center">🔎 Mi forma de aprender</h2>
-<table align="center">
-  <tr>
-    <td align="center"><b>Investigar</b><br/>Entender el problema</td>
-    <td align="center">→</td>
-    <td align="center"><b>Experimentar</b><br/>Probar alternativas</td>
-    <td align="center">→</td>
-    <td align="center"><b>Construir</b><br/>Convertir ideas en soluciones</td>
-    <td align="center">→</td>
-    <td align="center"><b>Mejorar</b><br/>Aprender de cada iteración</td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=candalg&label=visitas%20al%20perfil&color=0F9B8E&style=flat" alt="Visitas al perfil" />
