@@ -19,6 +19,8 @@
   &nbsp;<a href="https://github.com/candalg"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" title="HTML"></a>
   &nbsp;<a href="https://github.com/candalg"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" title="CSS"></a>
   &nbsp;<a href="https://github.com/candalg"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" title="JavaScript"></a>
+  &nbsp;<a href="https://github.com/candalg"><img src="https://skillicons.dev/icons?i=ocaml" height="48" alt="OCaml" title="OCaml"></a>
+
 </p>
 <p align="center">
   <a href="https://github.com/candalg"><img src="https://img.shields.io/badge/SQL-0F6DB5?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" title="SQL"></a>
