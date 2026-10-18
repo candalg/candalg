@@ -1,24 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:14213D,100:00B4D8&amp;height=170&amp;section=header&amp;text=Joel%20Candal%20G%C3%B3mez&amp;fontSize=40&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn" width="100%" alt="Cabecera azul con el nombre de Joel Candal Gómez"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08121F,55:102A43,100:0F9B8E&height=225&section=header&text=JOEL%20CANDAL&fontSize=50&fontColor=F3F7FA&fontAlignY=38&desc=Curiosity%20%E2%80%A2%20Code%20%E2%80%A2%20Creation&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Joel Candal" />
 </p>
 
 <p align="center">
-  Estudio Ingeniería Informática en la Universidade da Coruña, en la rama de Software.
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=520&height=48&lines=Ideas+into+code;Learning+as+I+build;Curiosity+in+motion" alt="Ideas into code · Learning as I build · Curiosity in motion" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08121F,55:102A43,100:0F9B8E&height=90&section=footer" width="100%" alt="" />
 </p>
-
-<p align="center">
-  <strong>Herramientas:</strong> Git · GitLab · Redmine · Jenkins · Maven · JUnit · MySQL · Flutter · React · Spring Boot
-</p>
-
-
