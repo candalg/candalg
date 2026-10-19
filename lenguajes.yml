@@ -1,0 +1,35 @@
+name: Actualizar lenguajes del perfil
+
+on:
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  lenguajes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Generar tarjeta de lenguajes
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: 'username=candalg&layout=compact&langs_count=8&locale=es&theme=transparent&title_color=7C3AED&text_color=7C3AED&hide_border=true&card_width=460'
+          path: profile/top-langs.svg
+          token: ${{ secrets.LANGUAGES_STATS_TOKEN }}
+          fail_on_error: true
+
+      - name: Guardar tarjeta actualizada
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar estadísticas de lenguajes"
+            git push
+          fi
