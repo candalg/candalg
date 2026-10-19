@@ -59,3 +59,12 @@
   &nbsp;<a href="https://github.com/candalg"><img src="https://img.shields.io/badge/JaCoCo-CC6699?style=for-the-badge" alt="JaCoCo" title="JaCoCo"></a>
 </p>
 
+<h3 align="center"> Lenguajes más utilizados</h3>
+
+<p align="center">
+  <img
+    src="./profile/top-langs.svg"
+    width="460"
+    alt="Porcentajes de lenguajes en repositorios públicos y privados de candalg"
+  />
+</p>
