@@ -59,15 +59,3 @@
   &nbsp;<a href="https://github.com/candalg"><img src="https://img.shields.io/badge/JaCoCo-CC6699?style=for-the-badge" alt="JaCoCo" title="JaCoCo"></a>
 </p>
 
-<!-- Footer: contador de visitas -->
-
----
-
-<p align="center">
-  <a href="https://hits.sh/github.com/candalg/" title="Visitas a mi perfil de GitHub">
-    <img
-      src="https://hits.sh/github.com/candalg.svg?style=for-the-badge&amp;label=Visitas&amp;color=7C3AED&amp;labelColor=1F2937&amp;logo=github"
-      alt="Contador de visitas al perfil de candalg"
-    />
-  </a>
-</p>
