@@ -61,8 +61,8 @@
 
 <p align="center">
   <img
-    src="./profile/top-langs.svg"
-    width="460"
-    alt="Porcentajes de lenguajes en repositorios públicos y privados de candalg"
+    src="https://raw.githubusercontent.com/candalg/candalg/main/profile/top-langs.svg?v=20261020-2"
+    width="440"
+    alt="Lenguajes más usados"
   />
 </p>
