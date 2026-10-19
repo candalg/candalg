@@ -1,3 +1,4 @@
+
 name: Actualizar lenguajes del perfil
 
 on:
@@ -11,6 +12,7 @@ permissions:
 jobs:
   lenguajes:
     runs-on: ubuntu-latest
+
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
@@ -19,7 +21,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: 'username=candalg&layout=compact&langs_count=8&locale=es&theme=dark&bg_color=1B1B1B&title_color=FFFFFF&text_color=A3A3A3&border_color=BDBDBD&hide_border=false&border_radius=7&card_width=440'
+          options: >-
+            username=candalg&layout=compact&langs_count=8&locale=es&theme=dark&bg_color=1B1B1B&title_color=FFFFFF&text_color=A3A3A3&border_color=BDBDBD&hide_border=false&border_radius=7&card_width=440&custom_title=Lenguajes%20m%C3%A1s%20usados
           path: profile/top-langs.svg
           token: ${{ secrets.LANGUAGES_STATS_TOKEN }}
           fail_on_error: true
